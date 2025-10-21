@@ -1,6 +1,6 @@
-##Benjamin Hailu's Resume
+# Benjamin Hailu's Resume
 
-### Education
+## Education
 
 **Northeastern University**
 
@@ -10,13 +10,13 @@ Bachelor of Science in Computer Science & Business Administration
 
 *Expected Graduation: Apr 2029*
 
-### Professional Experience
+## Professional Experience
 
 **Stock Manager** @ Rejuve Beauty Supply
 
 *Silver Spring, MD*
 
-### Extracurricular Involvement / Informal Experience
+## Extracurricular Involvement / Informal Experience
 
 **Instructor** for Machine Learning Society @ Springbrook High School
 
