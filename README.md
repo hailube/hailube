@@ -2,11 +2,6 @@
 
 Welcome to my GitHub page! I am **Benjamin Hailu** (he/him), a student at Northeastern University studying computer science and business administration.
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/hailube/count.svg" alt="Visitor's Count" />
-</div>
-
 ### How to Reach Me
 
 [Connect](https://linkedin.com/in/benjaminhailu) with me on LinkedIn!
