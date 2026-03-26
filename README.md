@@ -1,14 +1,15 @@
 ## Hello, I'm Ben 👋
 
-Welcome to my GitHub page! I am **Benjamin Hailu** (he/him), a student at Northeastern University studying computer science and business administration. I have experience as a Full Stack Developer, as well as experience handling data in a retail environment. My goal is to expand my horizons and expertise in software development. I love to learn new things, travel, and most importantly, have fun!
+Welcome to my GitHub page! I am **Benjamin Hailu** (he/him), a student at Northeastern University studying computer science and business administration.
 
-### My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,github,js,firebase,git,html,css)](https://skillicons.dev)
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/hailube/count.svg" alt="Visitor's Count" />
+</div>
 
 ### How to Reach Me
 
-[Connect](https://linkedin.com/in/benjaminhailu) with me!
+[Connect](https://linkedin.com/in/benjaminhailu) with me on LinkedIn!
 
 Email me at benhailuu@gmail.com
 
