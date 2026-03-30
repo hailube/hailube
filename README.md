@@ -1,4 +1,4 @@
-## Hello, I'm Ben 💻
+## Hello, I'm Ben 🚀
 
 Welcome to my GitHub page! I am **Benjamin Hailu** (he/him), a student at Northeastern University studying computer science and business administration.
 
