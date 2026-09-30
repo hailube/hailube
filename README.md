@@ -8,6 +8,8 @@ I'm a Computer Science and Business Administration student at **Northeastern Uni
 A campus lost-and-found platform for Northeastern, launched in partnership with the Student Center and used by 150+ students on web and iOS. I lead a team of 10+ developers.
 `React` `Node.js` `Express.js` `Supabase` `PostgreSQL` `Capacitor`
 
+> Note: Lost and Hound's repo is private since it serves live users. Source is available on request.
+
 **[Backyard](https://explorethebackyard.com)** · Founding Engineer
 A club discovery platform bringing Northeastern club profiles, events, and calendars into one place, with 20+ student clubs onboarded. I focus on features and database security.
 `React` `Supabase` `PostgreSQL`
@@ -15,8 +17,6 @@ A club discovery platform bringing Northeastern club profiles, events, and calen
 **[Cadence](https://github.com/NahomHaile/Company-Brain)** · AI NU Chatathon 2026
 An AI sales tool that turns two URLs into a source-cited battlecard for startup founders, built by a team of four in three hours. I owned the shell, deployment, and integration.
 `Next.js` `TypeScript` `Anthropic API` `Vercel`
-
-> Lost and Hound and Backyard repos are private since they serve live users. Source is available on request.
 
 ### Tech I work with
 
