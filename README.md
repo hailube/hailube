@@ -14,6 +14,8 @@ A campus lost-and-found platform for Northeastern, launched in partnership with 
 A club discovery platform bringing Northeastern club profiles, events, and calendars into one place, with 20+ student clubs onboarded. I focus on features and database security.
 `React` `Supabase` `PostgreSQL`
 
+> Note: Backyard's repo is private since it serves live users. Source is available on request.
+
 **[Cadence](https://github.com/NahomHaile/Company-Brain)** · AI NU Chatathon 2026
 An AI sales tool that turns two URLs into a source-cited battlecard for startup founders, built by a team of four in three hours. I owned the shell, deployment, and integration.
 `Next.js` `TypeScript` `Anthropic API` `Vercel`
